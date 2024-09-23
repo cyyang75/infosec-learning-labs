@@ -82,33 +82,15 @@ InfoSec Learning Labs for the course "Network Defense":
 
 ### Through these labs, I developed and sharpened the following skills:
 
- • Operating System Security
+###  • Operating System Security
 
- • Network Security
+###  • Network Security
 
- • Vulnerability Assessment and Exploitation
+###  • Vulnerability Assessment and Exploitation
 
- • Intrusion Detection and Prevention
+###  • Intrusion Detection and Prevention
 
- • Penetration Testing
-
----
-
-### Through these labs, I developed and sharpened the following skills:
-
- • Routing and Switching Configuration
- 
- • Firewall Implementation and Traffic Filtering
- 
- • Intrusion Detection and Evasion
- 
- • Virtualization Management
- 
- • Public Key Infrastructure (PKI) and Certificate Management
-
-### Skills Practiced: 
-
-### Operating System Security · Network Security · Vulnerability Assessment and Exploitation · Intrusion Detection and Prevention · Penetration Testing
+###  • Penetration Testing
 
 ---
 
