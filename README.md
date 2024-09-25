@@ -60,23 +60,24 @@ InfoSec Learning Labs for the course "Application Security":
 
 InfoSec Learning Labs for the course "Network Defense":
 
-1. Performing a Denial of Service Attack from the WAN
+[1. Performing a Denial of Service Attack from the WAN](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/1_performing_a_denial_of_service_attack_from_the_wan.html)
 
-2. The OSI Model
+[2. The OSI Model](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/2_the_osi_model.html)
 
-3. Network Troubleshooting
+[3. Network Troubleshooting](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/3_network_troubleshooting.html)
 
-4. TCPIP Protocols - The Core Protocols
+[4. TCP/IP Protocols - The Core Protocols](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/4_tcp_ip_protocols_the_core_protocols.html)
 
-5. Identifying & Analyzing Network Host Intrusion Detection System Alerts
+[5. Identifying & Analyzing Network Host Intrusion Detection System Alerts](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/5_identifying_analyzing_network_host_intrusion_detection_system_alerts.html)
 
-6. Intrusion Detection using Snort
+[6. Intrusion Detection using Snort](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/6_intrusion_detection_using_snort.html)
 
-7. Implementing NAT and Allowing Remote Access
+[7. Implementing NAT and Allowing Remote Access](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/7_implementing_nat_and_allowing_remote_access.html)
 
-8. Closing Ports and Unnecessary Services
+[8. Closing Ports and Unnecessary Services](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/8_closing_ports_and_unnecessary_services.html)
 
-9. Detecting Malware and Unauthorized Devices
+[9. Detecting Malware and Unauthorized Devices](https://cyyang75.github.io/infosec-learning-labs/CYB-310%20Network%20Defense%20Labs/9_detecting_malware_and_unauthorized_devices.html)
+
 
 ---
 
