@@ -1,7 +1,7 @@
 # InfoSec Learning Labs
 
 <p align="center">
-<img src="https://i.imgur.com/jdra0Pd.png" alt="InfoSec Learning Labs"/>
+<img src="./pic/infosec-learning-labs.png" alt="InfoSec Learning Labs"/>
 </p>
 
 ### During my course studies at SNHU as a Cybersecurity major, I gained hands-on experience through various virtual labs that simulate real-world operating environments. These labs allowed me to develop and test my skills using industry-standard tools and techniques such as Wireshark, Nmap, Snort, Metasploit, Kali Linux, Burp Suite, Splunk, OpenVAS, Hashcat, OSSEC, John the Ripper, Tenable Nessus, and more.
@@ -96,4 +96,4 @@ InfoSec Learning Labs for the course "Application Security":
 
 ---
 
-![InfoSec Learning Labs](https://i.imgur.com/SVqD3C0.png)
+![InfoSec Learning Labs](./pic/infosec-labs-screenshot.png)
